@@ -5,7 +5,7 @@ build published to the [Docker Hub](https://hub.docker.com/r/andron94/dockerfile
 
 ## Base Docker Image
 
-+ [andron94/dockerfile-sbcl:1.0.0](https://hub.docker.com/r/andron94/dockerfile-sbcl/)
++ [andron94/dockerfile-sbcl:1.1.0](https://hub.docker.com/r/andron94/dockerfile-sbcl/)
 
 ## Installation
 
