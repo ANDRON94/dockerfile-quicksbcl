@@ -2,7 +2,7 @@
 This repository contains *Dockerfile* of [[https://www.quicklisp.org/beta/][Quicklisp]] for Docker's automated
 build published to the [[https://hub.docker.com/r/andron94/dockerfile-quicksbcl/][Docker Hub]].
 ** Base Docker Image
-+ [[https://hub.docker.com/r/andron94/dockerfile-sbcl/][andron94/dockerfile-sbcl:1.3.0]]
++ [[https://hub.docker.com/r/andron94/dockerfile-sbcl/][andron94/dockerfile-sbcl:2.0.0]]
 ** Installation
 1. Install [[https://docs.docker.com/engine/installation/][Docker]].
 2. Download automated build from public Docker Hub Registry:
