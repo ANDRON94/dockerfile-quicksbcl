@@ -1,4 +1,4 @@
-FROM andron94/dockerfile-sbcl:2.0.0
+FROM andron94/dockerfile-sbcl:2.1.1
 MAINTAINER Andrii Tymchuk <makedonsky94@gmail.com>
 
 # =========================== Install Quicklisp ================================
